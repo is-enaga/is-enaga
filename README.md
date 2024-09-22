@@ -12,6 +12,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+## Hi, I am Kei.
+I mainly use Python. 
 
 ## 日本の地震学Pythonライブラリ Libraries for seismology in Japan
 Sorry but I will provide these libraries only to direct acquaintance because they are not so sophisticated.  
