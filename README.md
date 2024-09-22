@@ -20,7 +20,8 @@ I may share more information about the library and its code.
 Especially if you are a student of seismology in Japan, I am happy to support your research by sharing my code.
 
 詳細に興味があれば対面かTwitterでご相談ください。
-特に学生の方にはできる限り積極的にコードを共有しようと思います。
+特に学生の方にはできる限り積極的にライブラリを共有しようと思います。
+いずれもpipでインストールできる状態のファイルです。
 
 - WINtools  
   <img width="40" alt="wintools" src="https://github.com/user-attachments/assets/0fbb789a-ff8b-4fe9-97ab-676dac093ede">  
