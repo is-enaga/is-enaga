@@ -24,16 +24,18 @@ Especially if you are a student of seismology in Japan, I am happy to support yo
 いずれもpipでインストールできる状態のファイルです。  
 
 - WINtools  
-  <img width="40" alt="wintools" src="https://github.com/user-attachments/assets/0fbb789a-ff8b-4fe9-97ab-676dac093ede">  
+  <img width="50" alt="wintools" src="https://github.com/user-attachments/assets/0fbb789a-ff8b-4fe9-97ab-676dac093ede">  
   A library to read/write WIN format data, channel table and files related to hypomh (velocity structure, seis file, etc.).  
 	More useful than ObsPy when you read multiple continuous WIN data or use the amplitude information in channel table.
   
 - seisdbpy  
+  <img width="50" alt="db" src="https://github.com/user-attachments/assets/0195d541-a660-4c63-b6ff-6a341d32cb47">  
   Downloading or parsing seismic database data by Japanese organizations.
 
 - beachballpy  
+  <img width="50" alt="bbpy" src="https://github.com/user-attachments/assets/309e7e9c-384a-4d50-ae33-adca578e4128">  
   Make a plot of focal mechanisms.
   
 - DASarray  
-  <img width="40" alt="ps" src="https://github.com/user-attachments/assets/e8d3732c-5aeb-4cf8-ace7-fbfbe14fac45">  
+  <img width="50" alt="ps" src="https://github.com/user-attachments/assets/e8d3732c-5aeb-4cf8-ace7-fbfbe14fac45">  
   Reading and processing of HDF5 DAS data.
