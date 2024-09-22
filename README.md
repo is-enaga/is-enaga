@@ -16,11 +16,11 @@ Here are some ideas to get you started:
 ## 日本の地震学Pythonライブラリ Libraries for seismology in Japan
 Sorry but I will provide these libraries only to direct acquaintance.  
 However if you are interested, please contact me in person or via twitter.  
-I may share more information about the library and its code.  
-Especially if you are a student of seismology in Japan, I am happy to support your research by sharing my code.
+I may share more information about the library.  
+Especially if you are a student of seismology in Japan, I am happy to support your research by sharing my labrary.
 
-詳細に興味があれば対面かTwitterでご相談ください。  
-特に学生の方にはできる限り積極的にライブラリを共有しようと思います。  
+基本的に知人にのみ提供のつもりですが，詳細に興味があれば対面かTwitterでご相談ください。  
+特に学生の方の場合は，できる限り積極的にライブラリを共有しようと思います。  
 いずれもpipでインストールできる状態のファイルです。  
 
 - WINtools  
