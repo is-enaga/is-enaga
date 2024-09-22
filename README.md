@@ -31,7 +31,7 @@ Especially if you are a student of seismology in Japan, I am happy to support yo
   
 - seisdbpy  
   <img width="50" alt="db" src="https://github.com/user-attachments/assets/0195d541-a660-4c63-b6ff-6a341d32cb47">  
-  Downloading or parsing seismic database data by Japanese organizations.
+  Download and parse data from seismic database by Japanese organizations.
 
 - beachballpy  
   <img width="50" alt="bbpy" src="https://github.com/user-attachments/assets/309e7e9c-384a-4d50-ae33-adca578e4128">  
@@ -39,4 +39,4 @@ Especially if you are a student of seismology in Japan, I am happy to support yo
   
 - DASarray  
   <img width="50" alt="ps" src="https://github.com/user-attachments/assets/e8d3732c-5aeb-4cf8-ace7-fbfbe14fac45">  
-  Reading and processing of HDF5 DAS data.
+  Library for reading and processing of HDF5 DAS data.
