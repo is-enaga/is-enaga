@@ -35,7 +35,7 @@ Especially if you are a student of seismology in Japan, I am happy to support yo
 
 - beachballpy  
   <img width="50" alt="bbpy" src="https://github.com/user-attachments/assets/309e7e9c-384a-4d50-ae33-adca578e4128">  
-  Make a plot of focal mechanisms.
+  Make a plot of focal mechanisms and up/down markers of each station on it.
   
 - DASarray  
   <img width="50" alt="ps" src="https://github.com/user-attachments/assets/e8d3732c-5aeb-4cf8-ace7-fbfbe14fac45">  
