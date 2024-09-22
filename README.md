@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 -->
 
 ## 日本の地震学Pythonライブラリ Libraries for seismology in Japan
-Sorry but I will provide these libraries only to direct acquaintance because they are not sophisticated.  
+Sorry but I will provide these libraries only to direct acquaintance because they are not so sophisticated.  
 However if you are interested, please contact me in person or via twitter.  
 I may share more information about the library.  
 Especially if you are a student of seismology in Japan, I am happy to support your research by sharing my labrary.
