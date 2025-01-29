@@ -14,6 +14,8 @@ Here are some ideas to get you started:
 -->
 ## Hi, I am Kei.
 白岩です．Pythonを主に使用しています．
+最近は地震学関連のデータの処理や描画が多いです．
+私のコードは基本的に知人の間のみ共有しています．
 
 Hi I'm Kei from Japan. I mainly use Python for my calculations or plottings🤔. 
 
