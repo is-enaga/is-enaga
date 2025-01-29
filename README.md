@@ -13,18 +13,20 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ## Hi, I am Kei.
-Python user. 
+白岩です．Pythonを主に使用しています．
+
+Hi I'm Kei from Japan. I mainly use Python for my calculations or plottings🤔. 
 
 ## 日本の地震学Pythonライブラリ Libraries for seismology in Japan
-Sorry but I will provide these libraries only to direct acquaintance because they are not so sophisticated.  
-However if you are interested, please contact me in person or via twitter.  
-I may share more information about the library.  
-Especially if you are a student of seismology in Japan, I am happy to support your research by sharing my labrary.
-
 公開レベルでないため知人にのみ提供のつもりですが，  
 もしも詳細に興味があれば対面かTwitterでご相談ください。  
 特に学生の方の場合は，できる限り積極的にライブラリを共有しようと思います。  
 いずれもpipでインストールできる状態のファイルです。  
+
+Sorry but I will provide these libraries only to direct acquaintance because they are not so sophisticated.  
+However if you are interested, please contact me in person or via twitter.  
+I may share more information about the library.  
+Especially if you are a student of seismology in Japan, I am happy to support your research by sharing my labrary.
 
 - WINtools  
   <img width="50" alt="wintools" src="https://github.com/user-attachments/assets/0fbb789a-ff8b-4fe9-97ab-676dac093ede">  
