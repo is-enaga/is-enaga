@@ -15,14 +15,13 @@ Here are some ideas to get you started:
 ## Hi, I am Kei.
 白岩です．Pythonを主に使用しています．
 最近は地震学関連のデータの処理や描画が多いです．
-私のコードは基本的に知人の間のみ共有しています．
+私のコードは基本的に知人の間でのみ共有しています．
 
 Hi I'm Kei from Japan. I mainly use Python for my calculations or plottings🤔. 
 
 ## 日本の地震学Pythonライブラリ Libraries for seismology in Japan
 公開レベルでないため知人にのみ提供のつもりですが，  
-もしも詳細に興味があれば対面かTwitterでご相談ください。  
-特に学生の方の場合は，できる限り積極的にライブラリを共有しようと思います。  
+もしも詳細に興味があれば対面でご相談ください。   
 いずれもpipでインストールできる状態のファイルです。  
 
 Sorry but I will provide these libraries only to direct acquaintance because they are not so sophisticated.  
